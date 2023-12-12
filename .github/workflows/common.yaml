@@ -1,7 +1,7 @@
 name: common-workflow
 
 on:
-  workflow_dispatch:
+  workflow_call:
 
 jobs:
   build:
